@@ -1,0 +1,18 @@
+name: adipose_rnaseq
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - nextflow
+  - openjdk=17
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pyyaml
+  - pip
+  - pip:
+      - pydeseq2
+      - gseapy
