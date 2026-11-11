@@ -1,0 +1,10 @@
+sample,fastq_1,fastq_2,strandedness
+MHL_1,/expanse/lustre/projects/gtw111/nkhare/adipose/fastq/SRR12068705.fastq.gz,,auto
+MHL_2,/expanse/lustre/projects/gtw111/nkhare/adipose/fastq/SRR12068711.fastq.gz,,auto
+MHL_3,/expanse/lustre/projects/gtw111/nkhare/adipose/fastq/SRR12068717.fastq.gz,,auto
+MHO_1,/expanse/lustre/projects/gtw111/nkhare/adipose/fastq/SRR12068737.fastq.gz,,auto
+MHO_2,/expanse/lustre/projects/gtw111/nkhare/adipose/fastq/SRR12068743.fastq.gz,,auto
+MHO_3,/expanse/lustre/projects/gtw111/nkhare/adipose/fastq/SRR12068747.fastq.gz,,auto
+MUO_1,/expanse/lustre/projects/gtw111/nkhare/adipose/fastq/SRR12068755.fastq.gz,,auto
+MUO_2,/expanse/lustre/projects/gtw111/nkhare/adipose/fastq/SRR12068757.fastq.gz,,auto
+MUO_3,/expanse/lustre/projects/gtw111/nkhare/adipose/fastq/SRR12068759.fastq.gz,,auto
