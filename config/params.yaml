@@ -1,0 +1,11 @@
+input:   "/home/nkhare/rnaseq_adipose_pipeline/config/samplesheet.csv"
+outdir:  "/expanse/lustre/projects/gtw111/nkhare/adipose/rnaseq_results"
+
+fasta:   "/expanse/lustre/projects/gtw111/nkhare/references/gencode_v50/GRCh38.primary_assembly.genome.fa.gz"
+gtf:     "/expanse/lustre/projects/gtw111/nkhare/references/gencode_v50/gencode.v50.primary_assembly.annotation.gtf.gz"
+gencode: true
+save_reference: true
+
+aligner: "star_salmon"
+trimmer: "trimgalore"
+skip_stringtie: true
